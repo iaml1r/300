@@ -8,4 +8,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-skin: auto
+skin: dark
