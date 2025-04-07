@@ -1,4 +1,11 @@
 # _config.yml
 
-remote_theme: "jekyll/minima@2.5.2"
+
+remote_theme: jekyll/minima@d4d779a
+#
+# Minima requires the following plugins:
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
 skin: auto
