@@ -1,4 +1,4 @@
-## Day - 1 -> 30
+## Day - 1 to 30
 
 ### Day - 1 | April 7 - 2035
 Here are I updated all the required data to Server <br> 
