@@ -7,5 +7,5 @@ remote_theme: jekyll/minima@d4d779a
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-
-skin: dark
+minima:
+ skin: dark
